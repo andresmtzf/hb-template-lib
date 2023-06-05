@@ -1,8 +1,10 @@
-$input-bg: #f8f8f8 !default;
-$input-border: 1px solid #dcdcdc !default;
-$input-focus-border: 1px solid #ff00aa !default;
-$input-placeholder-color: #a0a0a0 !default;
-$input-text-color: #333 !default;
-$input-font-size: 14px !default;
-$input-padding: 10px !default;
-$input-transition: border-color 0.2s ease-in-out;
+:root {
+  --input-bg: #f8f8f8;
+  --input-border: 1px solid #dcdcdc;
+  --input-focus-border: 1px solid #ff00aa;
+  --input-placeholder-color: #a0a0a0;
+  --input-text-color: #333;
+  --input-font-size: 14px;
+  --input-padding: 10px;
+  --input-transition: border-color 0.2s ease-i;
+}
